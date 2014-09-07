@@ -6,4 +6,4 @@ Quick Text is simple GUI application written using shoesrb GUI toolkit. The appl
 <br>
 To start Application:<br>
 1. Install Shoes from shoesrb.com<br>
-2. Start shoes and run application file, app.rb or from terminal/cmd run shoes app.rb
+2. Start shoes and run application file, app.rb or from terminal/cmd run "shoes app.rb"
